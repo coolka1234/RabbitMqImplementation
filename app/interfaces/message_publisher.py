@@ -1,19 +1,21 @@
 import pika
 import time
 import random
-from varname import nameof
-from infrastructure.logger import Logger
+from varname import varname
+import os, sys
+sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
+from infrastructure.logger import logger
 
 class Publisher:
     def __init__(self, event_type):
         self.event_type = event_type
-        self.routing_key = nameof(self)
+        self.routing_key = "1"
         self.connection = pika.BlockingConnection(pika.ConnectionParameters("localhost"))
         self.channel = self.connection.channel()
 
     def publish(self, message):
         self.channel.basic_publish('', routing_key=self.routing_key, body=message)
-        Logger.info(f"Published {self.event_type}: {message}")
+        logger.info(f"Published {self.event_type}: {message}")
 
 if __name__ == "__main__":
     publishers = [
