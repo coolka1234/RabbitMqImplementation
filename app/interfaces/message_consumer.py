@@ -9,9 +9,10 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 class Consumer:
     def __init__(self, event_type):
-        self.event_type = event_type
-        self.exchange = "events"
-        self.routing_key = event_type
+        self.event= event_type
+        self.event_type = type(event_type).__name__
+        self.exchange = type(event_type).__name__
+        self.routing_key = type(event_type).__name__
         self.connection = pika.BlockingConnection(pika.ConnectionParameters("localhost"))
         self.channel = self.connection.channel()
         self.queue = self.channel.queue_declare(queue=self.routing_key, exclusive=False).method.queue
@@ -19,11 +20,11 @@ class Consumer:
 
     def callback(self, ch, method, properties, body):
         logger.info(f"Consumed {self.event_type}: {body.decode()}")
-        event = return_event_from_name(self.event_type, 1, body.decode())
-        event.execute()
+        self.event.execute()
         if self.event_type == "thirdEvent":
-            from message_publisher import Publisher  
-            publisher = Publisher("fourthEvent")
+            from message_publisher import Publisher
+            from domain.event_repository import fourthEvent
+            publisher = Publisher(fourthEvent())
             publisher.publish(f"Triggered fourthEvent from {body.decode()}")
 
     def start(self):

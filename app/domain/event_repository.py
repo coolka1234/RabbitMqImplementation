@@ -1,7 +1,7 @@
 # classes of events, as tasks processed by the system
 from infrastructure.logger import logger as Logger
 class firstEvent:
-    def __init__(self, task_id, payload):
+    def __init__(self, task_id=None, payload=None):
         self.task_id = task_id
         self.payload = payload
     
@@ -9,7 +9,7 @@ class firstEvent:
         Logger.info(f"Consumed first event: {self.payload}")
 
 class secondEvent:
-    def __init__(self, task_id, payload):
+    def __init__(self, task_id=None, payload=None):
         self.task_id = task_id
         self.payload = payload
 
@@ -17,7 +17,7 @@ class secondEvent:
         Logger.info(f"Consumed second event: {self.payload}")
 
 class thirdEvent:
-    def __init__(self, task_id, payload):
+    def __init__(self, task_id=None, payload=None):
         self.task_id = task_id
         self.payload = payload
     
@@ -25,7 +25,7 @@ class thirdEvent:
         Logger.info(f"Consumed third event: {self.payload}")
 
 class fourthEvent:
-    def __init__(self, task_id, payload):
+    def __init__(self, task_id=None, payload=None):
         self.task_id = task_id
         self.payload = payload
     def execute(self):

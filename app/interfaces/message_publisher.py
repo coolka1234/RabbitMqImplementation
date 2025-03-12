@@ -8,8 +8,8 @@ from infrastructure.logger import logger
 
 class Publisher:
     def __init__(self, event_type):
-        self.event_type = event_type
-        self.routing_key = event_type
+        self.event_type = type(event_type).__name__
+        self.routing_key = type(event_type).__name__
         self.connection = pika.BlockingConnection(pika.ConnectionParameters("localhost"))
         self.channel = self.connection.channel()
 

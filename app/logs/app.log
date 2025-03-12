@@ -78,3 +78,393 @@ Consumed third event: New event of thirdEvent
 Published fourthEvent: Triggered fourthEvent from New event of thirdEvent
 Consumed fourthEvent: Triggered fourthEvent from New event of thirdEvent
 Consumed fourth event: Triggered fourthEvent from New event of thirdEvent
+Starting consumer for type
+Starting consumer for type
+Starting consumer for type
+Starting consumer for type
+Starting consumer for type
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Consumed type: New event of <class 'app.domain.event_repository.firstEvent'>
+Consumed type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Consumed type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.thirdEvent'>
+Consumed type: New event of <class 'app.domain.event_repository.thirdEvent'>
+Published type: New event of <class 'app.domain.event_repository.secondEvent'>
+Consumed type: New event of <class 'app.domain.event_repository.secondEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.secondEvent'>
+Published type: New event of <class 'app.domain.event_repository.thirdEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.secondEvent'>
+Published type: New event of <class 'app.domain.event_repository.secondEvent'>
+Published type: New event of <class 'app.domain.event_repository.secondEvent'>
+Published type: New event of <class 'app.domain.event_repository.thirdEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.thirdEvent'>
+Published type: New event of <class 'app.domain.event_repository.thirdEvent'>
+Published type: New event of <class 'app.domain.event_repository.thirdEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.secondEvent'>
+Starting consumer for type
+Starting consumer for type
+Starting consumer for type
+Starting consumer for type
+Starting consumer for type
+Published type: New event of <class 'app.domain.event_repository.secondEvent'>
+Consumed type: New event of <class 'app.domain.event_repository.secondEvent'>
+Published type: New event of <class 'app.domain.event_repository.thirdEvent'>
+Consumed type: New event of <class 'app.domain.event_repository.thirdEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Consumed type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Consumed type: New event of <class 'app.domain.event_repository.firstEvent'>
+Consumed type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.thirdEvent'>
+Published type: New event of <class 'app.domain.event_repository.secondEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Published type: New event of <class 'app.domain.event_repository.thirdEvent'>
+Published type: New event of <class 'app.domain.event_repository.firstEvent'>
+Starting consumer for firstEvent
+Starting consumer for firstEvent
+Starting consumer for thirdEvent
+Starting consumer for fourthEvent
+Starting consumer for secondEvent
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed first event: None
+Consumed first event: None
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed first event: None
+Published secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed second event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed second event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed first event: None
+Consumed first event: None
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed first event: None
+Published secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed second event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed first event: None
+Consumed first event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed first event: None
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed first event: None
+Consumed first event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed second event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed first event: None
+Consumed first event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed second event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed first event: None
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed first event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed first event: None
+Published secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed second event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed first event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed second event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed first event: None
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed first event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed first event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed first event: None
+Published secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed second event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed first event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed second event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed first event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed second event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed first event: None
+Consumed first event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed first event: None
+Consumed first event: None
+Published secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed second event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed first event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed fourth event: None
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed first event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed second event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed first event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Published secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed third event: None
+Consumed second event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed first event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None
+Published secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x7ab6f8099550>
+Consumed second event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f7e90410>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f81d3ed0>
+Consumed first event: None
+Published firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed firstEvent: New event of <app.domain.event_repository.firstEvent object at 0x7ab6f80992b0>
+Consumed first event: None
+Published thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed thirdEvent: New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed third event: None
+Published fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourthEvent: Triggered fourthEvent from New event of <app.domain.event_repository.thirdEvent object at 0x7ab6f80996a0>
+Consumed fourth event: None

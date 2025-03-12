@@ -25,15 +25,15 @@ if __name__ == "__main__":
 
         
         for _ in range(3): 
-            threads.append(threading.Thread(target=run_publisher, args=(, 3)))
-        threads.append(threading.Thread(target=run_publisher, args=("secondEvent",)))  
-        threads.append(threading.Thread(target=run_publisher, args=("thirdEvent",)))  
+            threads.append(threading.Thread(target=run_publisher, args=(er.firstEvent(), 3)))
+        threads.append(threading.Thread(target=run_publisher, args=(er.secondEvent(),)))  
+        threads.append(threading.Thread(target=run_publisher, args=(er.thirdEvent(),)))  
 
         for _ in range(2): 
-            threads.append(threading.Thread(target=run_consumer, args=("firstEvent",)))
-        threads.append(threading.Thread(target=run_consumer, args=("secondEvent",)))
-        threads.append(threading.Thread(target=run_consumer, args=("thirdEvent",)))
-        threads.append(threading.Thread(target=run_consumer, args=("fourthEvent",)))  
+            threads.append(threading.Thread(target=run_consumer, args=(er.firstEvent(),)))
+        threads.append(threading.Thread(target=run_consumer, args=(er.secondEvent(),)))
+        threads.append(threading.Thread(target=run_consumer, args=(er.thirdEvent(),)))
+        threads.append(threading.Thread(target=run_consumer, args=(er.fourthEvent(),)))  
 
 
         
