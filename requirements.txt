@@ -1,0 +1,7 @@
+click @ file:///work/perseverance-python-buildout/croot/click_1728387069202/work
+executing==2.2.0
+pika==1.3.2
+python-dotenv @ file:///work/perseverance-python-buildout/croot/python-dotenv_1728388189408/work
+setuptools==75.8.0
+varname==0.14.0
+wheel==0.45.1
