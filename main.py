@@ -22,16 +22,17 @@ if __name__ == "__main__":
     try:
         threads = []
 
-        for _ in range(3): 
-            threads.append(threading.Thread(target=run_publisher, args=("type1", 3)))
-        threads.append(threading.Thread(target=run_publisher, args=("type2",)))  
-        threads.append(threading.Thread(target=run_publisher, args=("type3",)))  
-
         for _ in range(2): 
-            threads.append(threading.Thread(target=run_consumer, args=("type1",)))
-        threads.append(threading.Thread(target=run_consumer, args=("type2",)))
-        threads.append(threading.Thread(target=run_consumer, args=("type3",)))
-        threads.append(threading.Thread(target=run_consumer, args=("type4",)))  
+            threads.append(threading.Thread(target=run_consumer, args=("firstEvent",)))
+        threads.append(threading.Thread(target=run_consumer, args=("secondEvent",)))
+        threads.append(threading.Thread(target=run_consumer, args=("thirdEvent",)))
+        threads.append(threading.Thread(target=run_consumer, args=("fourthEvent",)))  
+        
+        for _ in range(3): 
+            threads.append(threading.Thread(target=run_publisher, args=("firstEvent", 3)))
+        threads.append(threading.Thread(target=run_publisher, args=("secondEvent",)))  
+        threads.append(threading.Thread(target=run_publisher, args=("thirdEvent",)))  
+
 
         
         for thread in threads:

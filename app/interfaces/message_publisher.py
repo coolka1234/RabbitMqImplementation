@@ -9,7 +9,7 @@ from infrastructure.logger import logger
 class Publisher:
     def __init__(self, event_type):
         self.event_type = event_type
-        self.routing_key = "1"
+        self.routing_key = event_type
         self.connection = pika.BlockingConnection(pika.ConnectionParameters("localhost"))
         self.channel = self.connection.channel()
 

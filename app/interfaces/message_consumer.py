@@ -2,24 +2,28 @@ import pika
 from infrastructure.logger import logger
 from varname import varname
 from domain.event_repository import return_event_from_name
+import os
+import sys
+
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 class Consumer:
     def __init__(self, event_type):
         self.event_type = event_type
         self.exchange = "events"
-        self.routing_key = "1"
+        self.routing_key = event_type
         self.connection = pika.BlockingConnection(pika.ConnectionParameters("localhost"))
         self.channel = self.connection.channel()
-        self.queue = self.channel.queue_declare(queue=self.routing_key, exclusive=True).method.queue
+        self.queue = self.channel.queue_declare(queue=self.routing_key, exclusive=False).method.queue
         self.channel.basic_consume(queue=self.queue, on_message_callback=self.callback, auto_ack=True)
 
     def callback(self, ch, method, properties, body):
         logger.info(f"Consumed {self.event_type}: {body.decode()}")
         event = return_event_from_name(self.event_type, 1, body.decode())
         event.execute()
-        if self.event_type == "type3":
+        if self.event_type == "thirdEvent":
             from message_publisher import Publisher  
-            publisher = Publisher("type4")
+            publisher = Publisher("fourthEvent")
             publisher.publish(f"Triggered event.type4 from {body.decode()}")
 
     def start(self):

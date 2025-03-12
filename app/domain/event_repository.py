@@ -1,5 +1,5 @@
 # classes of events, as tasks processed by the system
-from infrastructure.logger import Logger
+from infrastructure.logger import logger as Logger
 class firstEvent:
     def __init__(self, task_id, payload):
         self.task_id = task_id
