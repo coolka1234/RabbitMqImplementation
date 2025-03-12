@@ -19,16 +19,16 @@ class Publisher:
 
 if __name__ == "__main__":
     publishers = [
-        Publisher("type1"),
-        Publisher("type1"),
-        Publisher("type1"),
-        Publisher("type2"),
-        Publisher("type3")
+        Publisher("firstEvent"),
+        Publisher("firstEvent"),
+        Publisher("firstEvent"),
+        Publisher("secondEvent"),
+        Publisher("thirdEvent")
     ]
 
     while True:
         for publisher in publishers:
-            if publisher.event_type == "type1":
+            if publisher.event_type == "firstEvent":
                 time.sleep(3) 
             else:
                 time.sleep(random.randint(1, 5))  

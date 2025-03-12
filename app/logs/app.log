@@ -1,0 +1,80 @@
+Starting consumer for firstEvent
+Starting consumer for thirdEvent
+Starting consumer for secondEvent
+Starting consumer for fourthEvent
+Starting consumer for firstEvent
+Published secondEvent: New event of secondEvent
+Consumed secondEvent: New event of secondEvent
+Consumed second event: New event of secondEvent
+Published thirdEvent: New event of thirdEvent
+Consumed thirdEvent: New event of thirdEvent
+Consumed third event: New event of thirdEvent
+Published fourthEvent: Triggered fourthEvent from New event of thirdEvent
+Consumed fourthEvent: Triggered fourthEvent from New event of thirdEvent
+Consumed fourth event: Triggered fourthEvent from New event of thirdEvent
+Published firstEvent: New event of firstEvent
+Consumed firstEvent: New event of firstEvent
+Consumed first event: New event of firstEvent
+Published firstEvent: New event of firstEvent
+Consumed firstEvent: New event of firstEvent
+Consumed first event: New event of firstEvent
+Published thirdEvent: New event of thirdEvent
+Consumed thirdEvent: New event of thirdEvent
+Consumed third event: New event of thirdEvent
+Published firstEvent: New event of firstEvent
+Consumed firstEvent: New event of firstEvent
+Consumed first event: New event of firstEvent
+Published fourthEvent: Triggered fourthEvent from New event of thirdEvent
+Consumed fourthEvent: Triggered fourthEvent from New event of thirdEvent
+Consumed fourth event: Triggered fourthEvent from New event of thirdEvent
+Published thirdEvent: New event of thirdEvent
+Consumed thirdEvent: New event of thirdEvent
+Consumed third event: New event of thirdEvent
+Published fourthEvent: Triggered fourthEvent from New event of thirdEvent
+Consumed fourthEvent: Triggered fourthEvent from New event of thirdEvent
+Consumed fourth event: Triggered fourthEvent from New event of thirdEvent
+Published secondEvent: New event of secondEvent
+Consumed secondEvent: New event of secondEvent
+Consumed second event: New event of secondEvent
+Published firstEvent: New event of firstEvent
+Consumed firstEvent: New event of firstEvent
+Consumed first event: New event of firstEvent
+Published secondEvent: New event of secondEvent
+Consumed secondEvent: New event of secondEvent
+Consumed second event: New event of secondEvent
+Published firstEvent: New event of firstEvent
+Consumed firstEvent: New event of firstEvent
+Consumed first event: New event of firstEvent
+Published firstEvent: New event of firstEvent
+Consumed firstEvent: New event of firstEvent
+Consumed first event: New event of firstEvent
+Published thirdEvent: New event of thirdEvent
+Consumed thirdEvent: New event of thirdEvent
+Consumed third event: New event of thirdEvent
+Published fourthEvent: Triggered fourthEvent from New event of thirdEvent
+Consumed fourthEvent: Triggered fourthEvent from New event of thirdEvent
+Consumed fourth event: Triggered fourthEvent from New event of thirdEvent
+Published secondEvent: New event of secondEvent
+Consumed secondEvent: New event of secondEvent
+Consumed second event: New event of secondEvent
+Published thirdEvent: New event of thirdEvent
+Consumed thirdEvent: New event of thirdEvent
+Consumed third event: New event of thirdEvent
+Published fourthEvent: Triggered fourthEvent from New event of thirdEvent
+Consumed fourthEvent: Triggered fourthEvent from New event of thirdEvent
+Consumed fourth event: Triggered fourthEvent from New event of thirdEvent
+Published firstEvent: New event of firstEvent
+Consumed firstEvent: New event of firstEvent
+Consumed first event: New event of firstEvent
+Published firstEvent: New event of firstEvent
+Consumed firstEvent: New event of firstEvent
+Consumed first event: New event of firstEvent
+Published firstEvent: New event of firstEvent
+Consumed firstEvent: New event of firstEvent
+Consumed first event: New event of firstEvent
+Published thirdEvent: New event of thirdEvent
+Consumed thirdEvent: New event of thirdEvent
+Consumed third event: New event of thirdEvent
+Published fourthEvent: Triggered fourthEvent from New event of thirdEvent
+Consumed fourthEvent: Triggered fourthEvent from New event of thirdEvent
+Consumed fourth event: Triggered fourthEvent from New event of thirdEvent

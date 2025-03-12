@@ -1,7 +1,6 @@
 # Logging module to proccess messages in the application
 import logging
 import sys
-from venv import logger
 from dotenv import load_dotenv
 import os
 
@@ -12,7 +11,7 @@ class Logger():
         self.logger.setLevel(logging.INFO)
         formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
         load_dotenv('../../.env')
-        file_handler=logging.FileHandler(os.getenv('LOG_FILE', 'app.log'))
+        file_handler=logging.FileHandler(os.getenv('LOG_FILE', 'app/logs/app.log'))
         ch = logging.StreamHandler(sys.stdout)
         ch.setFormatter(formatter)
         self.logger.addHandler(ch)

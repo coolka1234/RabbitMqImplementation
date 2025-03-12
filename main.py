@@ -3,6 +3,7 @@ import time
 import random
 from app.interfaces.message_publisher import Publisher
 from app.interfaces.message_consumer import Consumer
+import app.domain.event_repository as er
 
 def run_publisher(event_type, interval=None):
     """Function to run a publisher with a given event type and time interval."""
@@ -22,16 +23,17 @@ if __name__ == "__main__":
     try:
         threads = []
 
+        
+        for _ in range(3): 
+            threads.append(threading.Thread(target=run_publisher, args=(, 3)))
+        threads.append(threading.Thread(target=run_publisher, args=("secondEvent",)))  
+        threads.append(threading.Thread(target=run_publisher, args=("thirdEvent",)))  
+
         for _ in range(2): 
             threads.append(threading.Thread(target=run_consumer, args=("firstEvent",)))
         threads.append(threading.Thread(target=run_consumer, args=("secondEvent",)))
         threads.append(threading.Thread(target=run_consumer, args=("thirdEvent",)))
         threads.append(threading.Thread(target=run_consumer, args=("fourthEvent",)))  
-        
-        for _ in range(3): 
-            threads.append(threading.Thread(target=run_publisher, args=("firstEvent", 3)))
-        threads.append(threading.Thread(target=run_publisher, args=("secondEvent",)))  
-        threads.append(threading.Thread(target=run_publisher, args=("thirdEvent",)))  
 
 
         

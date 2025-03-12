@@ -24,7 +24,7 @@ class Consumer:
         if self.event_type == "thirdEvent":
             from message_publisher import Publisher  
             publisher = Publisher("fourthEvent")
-            publisher.publish(f"Triggered event.type4 from {body.decode()}")
+            publisher.publish(f"Triggered fourthEvent from {body.decode()}")
 
     def start(self):
         logger.info(f"Starting consumer for {self.event_type}")
@@ -32,11 +32,11 @@ class Consumer:
 
 if __name__ == "__main__":
     consumers = [
-        Consumer("type1"),
-        Consumer("type1"),
-        Consumer("type2"),
-        Consumer("type3"),
-        Consumer("type4")
+        Consumer("firstEvent"),
+        Consumer("secondEvent"),
+        Consumer("thirdEvent"),
+        Consumer("thirdEvent"),
+        Consumer("fourthEvent")
     ]
 
     for consumer in consumers:
