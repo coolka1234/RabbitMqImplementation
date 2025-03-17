@@ -1,5 +1,6 @@
 # classes of events, as tasks processed by the system
 from infrastructure.logger import logger as Logger
+from interfaces import message_publisher
 class firstEvent:
     def __init__(self, task_id=None, payload=None):
         self.task_id = task_id
@@ -23,7 +24,10 @@ class thirdEvent:
     
     def execute(self):
         Logger.info(f"Consumed third event: {self.payload}")
-
+        from interfaces.message_publisher import Publisher
+        from domain.event_repository import fourthEvent
+        publisher = Publisher(fourthEvent())
+        publisher.publish(f"Triggered fourthEvent from thirdEvent")
 class fourthEvent:
     def __init__(self, task_id=None, payload=None):
         self.task_id = task_id

@@ -21,11 +21,11 @@ class Consumer:
     def callback(self, ch, method, properties, body):
         logger.info(f"Consumed {self.event_type}: {body.decode()}")
         self.event.execute()
-        if self.event_type == "thirdEvent":
-            from message_publisher import Publisher
-            from domain.event_repository import fourthEvent
-            publisher = Publisher(fourthEvent())
-            publisher.publish(f"Triggered fourthEvent from {body.decode()}")
+        # if self.event_type == "thirdEvent":
+        #     from message_publisher import Publisher
+        #     from domain.event_repository import fourthEvent
+        #     publisher = Publisher(fourthEvent())
+        #     publisher.publish(f"Triggered fourthEvent from {body.decode()}")
 
     def start(self):
         logger.info(f"Starting consumer for {self.event_type}")
