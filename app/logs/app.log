@@ -1032,3 +1032,1513 @@ Consumed first event: None
 Published secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x75ad3e3b5550>
 Consumed secondEvent: New event of <app.domain.event_repository.secondEvent object at 0x75ad3e3b5550>
 Consumed second event: None
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type three message
+Publishing type two message
+Publishing type two message
+Publishing type two message
+Publishing type four message
+Publishing type one message
+Publishing type one message
+Publishing type one message
+Publishing type two message
+Received type two message
+Publishing type four message
+Publishing type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Publishing type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Publishing type one message
+Publishing type one message
+Publishing type one message
+Publishing type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Publishing type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Publishing type one message
+Publishing type four message
+Publishing type one message
+Publishing type one message
+Publishing type two message
+Received type two message
+Publishing type four message
+Publishing type four message
+Publishing type one message
+Publishing type one message
+Publishing type one message
+Publishing type two message
+Received type two message
+Publishing type four message
+Publishing type four message
+Publishing type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Publishing type one message
+Publishing type four message
+Publishing type one message
+Publishing type one message
+Publishing type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Publishing type four message
+Publishing type four message
+Publishing type two message
+Received type two message
+Publishing type one message
+Publishing type four message
+Publishing type one message
+Publishing type one message
+Publishing type four message
+Publishing type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Publishing type four message
+Publishing type four message
+Publishing type two message
+Publishing type one message
+Publishing type one message
+Received type four message
+Received type two message
+Publishing type one message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Publishing type one message
+Publishing type one message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type one message
+Publishing type two message
+Publishing type four message
+Received type two message
+Received type four message
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Publishing type four message
+Received type two message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received type four message
+Received typeOneEvent
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type two message
+Received type two message
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type two message
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received type two message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Publishing type two message
+Received typeOneEvent
+Received typeOneEvent
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Publishing type two message
+Received typeOneEvent
+Received typeOneEvent
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Publishing type one message
+Publishing type four message
+Publishing type three message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type two message
+Received type two message
+Received type four message
+Received type three message
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type three message
+Publishing type four message
+Publishing type two message
+Received type four message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Publishing type four message
+Received type two message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Publishing type one message
+Received type four message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Publishing type four message
+Received type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Publishing type three message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type two message
+Publishing type three message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Publishing type three message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Publishing type three message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Publishing type three message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type three message
+Publishing type two message
+Publishing type one message
+Received type two message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Publishing type three message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type two message
+Publishing type three message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Publishing type three message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type two message
+Publishing type three message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Publishing type three message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Publishing type three message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Publishing type one message
+Publishing type one message
+Publishing type three message
+Received type two message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Received typeOneEvent
+Received type three message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type three message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type three message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type three message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type three message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Publishing type one message
+Received type two message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type three message
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type three message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type three message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type three message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type one message
+Publishing type four message
+Received type four message
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Received typeOneEvent
+Received type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Publishing type two message
+Received type four message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Publishing type four message
+Received type four message
+Received type four message
+Publishing type three message
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type four message
+Publishing type two message
+Received type two message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type one message
+Received typeOneEvent
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type one message
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type one message
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type one message
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type one message
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type one message
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
+Publishing type three message
+Publishing type two message
+Received type two message
+Publishing type four message
+Received type four message
+Publishing type one message
+Publishing type one message
+Publishing type one message
+Received typeOneEvent
+Received typeOneEvent
+Received typeOneEvent
+Publishing type four message
+Received type four message
+Publishing type four message
+Received type four message
